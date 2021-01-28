@@ -1,2 +1,2 @@
 # AulaGIT
- Repositorio de aula do curso de GIT
+ Repositorio das aulas do curso de GIT
